@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/system/algorithmNames.txt</file>
+        <file>res/icon/classifier.ico</file>
+        <file>res/pic/mainWindow.png</file>
+    </qresource>
+</RCC>

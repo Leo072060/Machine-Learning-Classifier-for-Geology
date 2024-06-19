@@ -1,0 +1,12 @@
+debug/evaluatewindow.o
+debug/main.o
+debug/mainwindow.o
+debug/predictwindow.o
+debug/processevalutionwindow.o
+debug/trainwindow.o
+debug/qrc_res.o
+debug/moc_evaluatewindow.o
+debug/moc_mainwindow.o
+debug/moc_predictwindow.o
+debug/moc_processevalutionwindow.o
+debug/moc_trainwindow.o

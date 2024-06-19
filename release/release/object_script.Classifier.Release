@@ -1,0 +1,12 @@
+release/evaluatewindow.o
+release/main.o
+release/mainwindow.o
+release/predictwindow.o
+release/processevalutionwindow.o
+release/trainwindow.o
+release/qrc_res.o
+release/moc_evaluatewindow.o
+release/moc_mainwindow.o
+release/moc_predictwindow.o
+release/moc_processevalutionwindow.o
+release/moc_trainwindow.o
